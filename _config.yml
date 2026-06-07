@@ -1,0 +1,11 @@
+title: Tea by the River
+description: Intimate tea gatherings, riverside.
+url: "https://tea-by-the-river.github.io"
+
+theme: minima
+
+minima:
+  skin: classic
+
+header_pages:
+  - events/index.md

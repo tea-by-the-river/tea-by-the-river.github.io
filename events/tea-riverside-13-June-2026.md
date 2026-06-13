@@ -1,25 +1,25 @@
 ---
 layout: event
-title: Tea by the River
+title: Tea by the Pond
 date: 2026-06-13 15:00:00 -0500
-location: Riverside
+location: North Pond
 luma_url: https://luma.com/wav4c2qp
 menu: |
   **Tea**
+  - Yuzu and Ginger tea, chilled
   - Saffron with Munnar Orthodox black tea
   - Chai with Kannan Devan Gold leaf
-  - TBD .. 
 
   **Snacks - Sweet**
-  
+
   - Almond Crisps with Yuzu citron jam
   - Almond Crisps with Mango jam
-  - Assorted biscuits
-  
+  - Apple Strudel
+
   **Snacks - Savory**
-  
-  - Samosas
-  - Murukku
+
+  - Falefel
+  - Hummus and Pita
 
 ---
 
@@ -28,4 +28,3 @@ menu: |
 </blockquote>
 <script async src="https://www.instagram.com/embed.js"></script>
 
-** This event is in planning **

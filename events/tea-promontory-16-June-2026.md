@@ -1,24 +1,11 @@
 ---
 layout: event
-title: Tea at the Promontory Point
-date: 2026-06-13 15:00:00 -0500
+title: Tea at the Promontory Point [Cancelled]
+date: 2026-06-16 15:00:00 -0500
 location: Promontory Point, Hyde Park 
 luma_url: TBD
 menu: |
-  **Tea**
-  - White tea (Lockheart Tea estate) 
-  - Chai with Kannan Devan Gold leaf
-  - TBD .. 
-
-  **Snacks - Sweet**
   
-  - Assorted biscuits
-  - ??
-  
-  **Snacks - Savory**
-  
-  - Samosas
-  - Murukku
 
 ---
 
@@ -28,4 +15,4 @@ menu: |
 <script async src="https://www.instagram.com/embed.js"></script>
 
 
-** This event is in planning. **
+** This event has been cancelled due to UChicago campus operations being restricted in conjunction with the opening of the Obama Presidential Library. **

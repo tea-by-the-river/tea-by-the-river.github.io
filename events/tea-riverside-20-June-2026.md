@@ -1,9 +1,9 @@
 ---
 layout: event
-title: Tea by the Pond
-date: 2026-06-13 15:00:00 -0500
-location: North Pond
-luma_url: https://luma.com/wav4c2qp
+title: Tea by the River
+date: 2026-06-20 15:00:00 -0500
+location: Riverside, Swan Pond
+luma_url: https://luma.com/3a4qzfm0
 menu: |
   **Tea**
   - Yuzu and Ginger tea, chilled
